@@ -1,2 +1,2 @@
-2da ntrega Victor Di Salvatore Javascript 
+2da entrega Victor Di Salvatore Javascript 
 Incluye un metodo sumar iva y un map sumar iva para ver el resultado de dos maneras diferentes.
